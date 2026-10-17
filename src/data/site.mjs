@@ -164,7 +164,7 @@ export const EVENTS = [
     {
         country: "United States",
         items: [
-            { title: "Nagar Kirtan, Yuba City", when: "Oct–Nov 2025" },
+            { title: "California", when: "Oct–Nov 2025" },
             { title: "APPNA 48th Convention, Dallas", when: "Jul 2025" },
             { title: "Pakistan Lifestyle Exhibition, Dulles Expo Centre", when: "Jul 2024" },
             { title: "APPNA 47th Annual Convention", when: "Jul 2024" },
@@ -232,7 +232,7 @@ export const EVENT_PHOTOS = [
     p("ev-appna", "Aadiz stall at the APPNA convention", "APPNA Convention, USA 2025"),
     p("ev-paris", "At Foire de Paris", "Foire de Paris, France 2024"),
     p("ev-amsterdam25", "At the Amsterdam Textile Show", "Amsterdam Textile Show 2025"),
-    p("ev-nagar", "Aadiz stall at Nagar Kirtan", "Nagar Kirtan, Yuba City, USA 2025"),
+    p("ev-nagar", "Aadiz stall at California", "California, USA 2025"),
     p("ev-colombo", "At the Pakistan Lifestyle Expo in Colombo", "Pakistan Lifestyle Expo, Colombo"),
     p("ev-dhaka", "Aadiz stall at the South Asia Trade Fair", "South Asia Trade Fair, Dhaka"),
     p("ev-saarc", "Aadiz Collection stall at SAARC Bazaar", "SAARC Bazaar, Dhaka 2025"),
